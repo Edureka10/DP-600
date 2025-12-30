@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Customer_Segment,Customer_Type
+1001,Customer_1001,Consumer,New
+1002,Customer_1002,Corporate,New
+1003,Customer_1003,Small Business,New
+1004,Customer_1004,Corporate,Returning
+1005,Customer_1005,Consumer,New
+1006,Customer_1006,Small Business,New
+1007,Customer_1007,Consumer,New
+1008,Customer_1008,Corporate,Returning
+1009,Customer_1009,Consumer,Returning
+1010,Customer_1010,Small Business,Returning
+1011,Customer_1011,Small Business,Returning
+1012,Customer_1012,Corporate,New
+1013,Customer_1013,Consumer,New
+1014,Customer_1014,Small Business,Returning
+1015,Customer_1015,Corporate,New
+1016,Customer_1016,Small Business,New
+1017,Customer_1017,Small Business,New
+1018,Customer_1018,Consumer,Returning
+1019,Customer_1019,Small Business,Returning
+1020,Customer_1020,Consumer,New
+1021,Customer_1021,Small Business,Returning
+1022,Customer_1022,Corporate,Returning
+1023,Customer_1023,Small Business,Returning
+1024,Customer_1024,Consumer,Returning
+1025,Customer_1025,Consumer,Returning
+1026,Customer_1026,Corporate,New
+1027,Customer_1027,Small Business,Returning
+1028,Customer_1028,Small Business,New
+1029,Customer_1029,Corporate,New
+1030,Customer_1030,Small Business,Returning
+1031,Customer_1031,Small Business,New
+1032,Customer_1032,Consumer,New
+1033,Customer_1033,Small Business,New
+1034,Customer_1034,Small Business,Returning
+1035,Customer_1035,Corporate,Returning
+1036,Customer_1036,Corporate,New
+1037,Customer_1037,Consumer,Returning
+1038,Customer_1038,Small Business,Returning
+1039,Customer_1039,Small Business,Returning
+1040,Customer_1040,Small Business,Returning
+1041,Customer_1041,Consumer,New
+1042,Customer_1042,Consumer,New
+1043,Customer_1043,Corporate,Returning
+1044,Customer_1044,Consumer,Returning
+1045,Customer_1045,Small Business,New
+1046,Customer_1046,Small Business,New
+1047,Customer_1047,Consumer,Returning
+1048,Customer_1048,Small Business,New
+1049,Customer_1049,Small Business,Returning
+1050,Customer_1050,Consumer,Returning
+1051,Customer_1051,Consumer,New
+1052,Customer_1052,Small Business,New
+1053,Customer_1053,Small Business,Returning
+1054,Customer_1054,Small Business,Returning
+1055,Customer_1055,Corporate,New
+1056,Customer_1056,Corporate,Returning
+1057,Customer_1057,Corporate,New
+1058,Customer_1058,Consumer,Returning
+1059,Customer_1059,Corporate,New
+1060,Customer_1060,Consumer,New
+1061,Customer_1061,Consumer,New
+1062,Customer_1062,Corporate,Returning
+1063,Customer_1063,Corporate,Returning
+1064,Customer_1064,Corporate,New
+1065,Customer_1065,Small Business,Returning
+1066,Customer_1066,Corporate,New
+1067,Customer_1067,Small Business,New
+1068,Customer_1068,Consumer,Returning
+1069,Customer_1069,Small Business,Returning
+1070,Customer_1070,Corporate,New
+1071,Customer_1071,Consumer,Returning
+1072,Customer_1072,Consumer,Returning
+1073,Customer_1073,Consumer,New
+1074,Customer_1074,Small Business,New
+1075,Customer_1075,Corporate,Returning
+1076,Customer_1076,Consumer,New
+1077,Customer_1077,Consumer,New
+1078,Customer_1078,Consumer,Returning
+1079,Customer_1079,Small Business,New
+1080,Customer_1080,Small Business,New
+1081,Customer_1081,Corporate,Returning
+1082,Customer_1082,Small Business,Returning
+1083,Customer_1083,Consumer,New
+1084,Customer_1084,Corporate,New
+1085,Customer_1085,Consumer,Returning
+1086,Customer_1086,Consumer,Returning
+1087,Customer_1087,Small Business,Returning
+1088,Customer_1088,Corporate,Returning
+1089,Customer_1089,Small Business,New
+1090,Customer_1090,Small Business,Returning
+1091,Customer_1091,Corporate,Returning
+1092,Customer_1092,Consumer,New
+1093,Customer_1093,Consumer,Returning
+1094,Customer_1094,Corporate,New
+1095,Customer_1095,Consumer,Returning
+1096,Customer_1096,Corporate,Returning
+1097,Customer_1097,Corporate,Returning
+1098,Customer_1098,Small Business,New
+1099,Customer_1099,Corporate,New
+1100,Customer_1100,Small Business,Returning
